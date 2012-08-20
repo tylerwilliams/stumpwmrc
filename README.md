@@ -1,0 +1,4 @@
+stumpwmrc
+=========
+
+stumpwmrc
